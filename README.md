@@ -1,6 +1,6 @@
 ## Hi there Geeks, Purvi here.👋
 - 🔭 I’m currently a Third-year IT student.
-- 🌱 I’m currently learning Full-stack development and griding DSA ofcourse.
+- 🌱 I’m currently learning Full-stack development and DSA ofcourse.
 - 🤔 I’m looking for help with my leetcode questions and error-prone code.
 - 🧐Looking forward to collaborate on fun web-dev projects and for exploring some new technologies.
 - 📫 How to reach me: (purvimathankar2307@gmail.com)
