@@ -5,6 +5,6 @@
 - 🧐Looking forward to collaborate on fun web-dev projects and for exploring some new technologies.
 - 📫 How to reach me: (purvimathankar2307@gmail.com)
 - 😄 Favorite time-pass: touch-typing ( currently 50wpm speed ..I'm trying to improve lol)
-- ⚡ Fun fact: You can talk to me in human language.
+- ⚡ Fun fact: You can talk to me in human language!
 
 
