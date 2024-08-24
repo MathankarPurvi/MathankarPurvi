@@ -7,4 +7,21 @@
 - 😄 Favorite time-pass: touch-typing ( currently 50wpm speed ..I'm trying to improve lol)
 - ⚡ Fun fact: You can talk to me in human language!
 
+<p align="center">
+  - 📫 How to reach me <br>
+  <a href="mailto:purvimathankar2307@gmail.com"><strong>purvimathankar23070@gmail.com</strong></a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/purvi-mathankar-a53bb9255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purvi" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/purvimathankar2307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purvi" height="30" width="40" /></a>
+<a href="https://x.com/MathankarPurvi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purvi" height="30" width="40" />
+</a>
+
+</a>
+
+
+</p>
 
