@@ -24,8 +24,8 @@
 <div align="center">
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MathankarPurvi&show_icons=true&locale=en" alt="purvi" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathankarPurvi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=highcontrast&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MathankarPurvi1&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathankarPurvi&radius=16&theme=redical&area=true&order=5&custom_title=My%20contributions&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=MathankarPurvi&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathankarPurvi&radius=16&theme=redical&area=true&order=5&custom_title=My%20contributions&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 
